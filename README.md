@@ -33,7 +33,7 @@ Good luck!
 * SPACE = restart
 * ESC = close
 
-## Core Principles:
+## Core Components:
 
 * Generation and linking of quadratic functions that define the movement of all game objects.
 * Numerical analysis to find equally spaced points relative to the curve.
