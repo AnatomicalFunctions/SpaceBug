@@ -1,0 +1,35 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/CollisionTesting.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Coordinate_Variables_Package/CoordinateInterpretation.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Utility_Files/Utilities.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Coordinate_Variables_Package/LengthAndSpacing.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Coordinate_Variables_Package/CoordinateVariables.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Coordinate_Variables_Package/TranslationHandling.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/SpaceCraft.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Game_Logic_Package/GameLogic.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Missile.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Game_Logic_Package/EventHandling.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Game_Logic_Package/RoundOne.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Chaff_Animation/Chaff.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Chaff_Animation/ChaffSprite.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Utility_Files/StaticTranslationHandling.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/CollisionDetection.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Craft_Explosion_Animation/CraftExplosion.cpp.obj: dyndep
+
+build CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir/Craft_Explosion_Animation/DebrisSprite.cpp.obj: dyndep
+

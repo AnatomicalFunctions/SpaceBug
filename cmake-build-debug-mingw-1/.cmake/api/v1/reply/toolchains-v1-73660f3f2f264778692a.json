@@ -1,0 +1,138 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib/gcc/i686-w64-mingw32/14.2.0/include",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/include",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib/gcc/i686-w64-mingw32/14.2.0/include-fixed",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/i686-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib/gcc/i686-w64-mingw32/14.2.0",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib/gcc",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/i686-w64-mingw32/lib",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/bin/gcc.exe",
+				"version" : "14.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/include/c++/14.2.0",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/include/c++/14.2.0/i686-w64-mingw32",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/include/c++/14.2.0/backward",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib/gcc/i686-w64-mingw32/14.2.0/include",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/include",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib/gcc/i686-w64-mingw32/14.2.0/include-fixed",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/i686-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib/gcc/i686-w64-mingw32/14.2.0",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib/gcc",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/i686-w64-mingw32/lib",
+						"C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/bin/c++.exe",
+				"version" : "14.2.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Users/nicka/CLionProjects/winlibs-i686-posix-dwarf-gcc-14.2.0-mingw-w64ucrt-12.0.0-r2/mingw32/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

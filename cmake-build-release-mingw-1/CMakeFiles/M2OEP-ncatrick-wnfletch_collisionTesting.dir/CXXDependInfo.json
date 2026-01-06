@@ -1,0 +1,21 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Release",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/nicka/CLionProjects/OpenEndedProjects/M2OEP-ncatrick-wnfletch/cmake-build-release-mingw-1",
+	"dir-cur-src" : "C:/Users/nicka/CLionProjects/OpenEndedProjects/M2OEP-ncatrick-wnfletch",
+	"dir-top-bld" : "C:/Users/nicka/CLionProjects/OpenEndedProjects/M2OEP-ncatrick-wnfletch/cmake-build-release-mingw-1",
+	"dir-top-src" : "C:/Users/nicka/CLionProjects/OpenEndedProjects/M2OEP-ncatrick-wnfletch",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"C:\\Users\\nicka\\CLionProjects\\SFML-3.0.2-windows-gcc-14.2.0-mingw-32-bit\\SFML-3.0.2\\include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/nicka/CLionProjects/OpenEndedProjects/M2OEP-ncatrick-wnfletch/cmake-build-release-mingw-1/CMakeFiles/M2OEP-ncatrick-wnfletch_collisionTesting.dir"
+}

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "M2OEP-ncatrick-wnfletch",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "M2OEP-ncatrick-wnfletch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M2OEP-ncatrick-wnfletch-Release-bf26448a8a620914080a.json",
+					"name" : "M2OEP-ncatrick-wnfletch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M2OEP-ncatrick-wnfletch_collisionTesting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M2OEP-ncatrick-wnfletch_collisionTesting-Release-89afbdfc0555c46fa87a.json",
+					"name" : "M2OEP-ncatrick-wnfletch_collisionTesting",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "M2OEP-ncatrick-wnfletch_testing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-M2OEP-ncatrick-wnfletch_testing-Release-6b318fdc47a49976fa8c.json",
+					"name" : "M2OEP-ncatrick-wnfletch_testing",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nicka/CLionProjects/OpenEndedProjects/M2OEP-ncatrick-wnfletch/cmake-build-release-mingw-1",
+		"source" : "C:/Users/nicka/CLionProjects/OpenEndedProjects/M2OEP-ncatrick-wnfletch"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

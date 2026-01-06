@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\M2OEP-ncatrick-wnfletch_collisionTesting.dir\\Craft_Explosion_Animation\\DebrisSprite.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
