@@ -1,8 +1,7 @@
 Lucia Catricks
 Lucia.Catricks@uvm.edu
-CS 2300, Section A
 
-# Final Project: SPACEBUG
+# SPACEBUG
 
 ## Instructions:
 
@@ -30,6 +29,14 @@ Good luck!
 * SPACE = restart
 * ESC = close
 
-## Grading:
+## Core Principles:
 
-This is a massive project, with significant changes since the last submitted iteration as detailed in the demo video. I am going for the "Large - 200pt" submission, and am hoping for 61 points, despite my lack of a proposal, for which I expect to lose a number of points.
+* Generation and linking of quadratic functions that define the movement of all game objects.
+* Numerical analysis to find equally spaced points relative to the curve.
+* Free movement in 2D space.
+* Efficient collision detection of two rectangles at any rotation.
+* Missile seeker cones of detection for realistic chaff.
+* Various interesting interactions with the function generation tools, such as:
+  * Player input determining function generation.
+  * Game State determining generation.
+  * Preset animations determining various generations, such as chaff or explosions 
