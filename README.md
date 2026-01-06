@@ -43,4 +43,4 @@ Good luck!
 * Various interesting interactions with the function generation tools, such as:
   * Player input determining function generation.
   * Game State determining generation.
-  * Preset animations determining various generations, such as chaff or directional explosions 
+  * Preset animations determining various generations, such as chaff or directional explosions.
