@@ -28,7 +28,7 @@ Good luck!
 * A = Turn Left
 * D = Turn Right
 * W = Fire Foward Guns
-* CTRL = Deploy Chaff
+* SHIFT = Deploy Chaff
 
 * SPACE = restart
 * ESC = close
